@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>black/rounded</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/rounded" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background" fill="#222222">
+            <rect id="Rectangle" x="0" y="0" width="512" height="512" rx="100"></rect>
+        </g>
+        <path d="M304,204.633682 L304,204.688889 L160,287.720696 L160,376 L208,376 L208,335.617315 L208,308.096157 L208,308.051672 L208.038227,308.074076 L352,224.92058 L352,136 L304,136 L304,204.633682 Z M280.074262,190.819702 L280,190.776825 L280,112 L376,112 L376,238.746873 L231.708287,321.946885 L232,322.117855 L232,400 L136,400 L136,274.038173 L280.074262,190.819702 Z M136,246.205943 L136,112 L232,112 L232,190.776825 L208,204.633682 L208,136 L160,136 L160,232.350056 L136,246.205943 Z M280,322.117855 L304,308.051672 L304,376 L352,376 L352,280 L376,266.090732 L376,400 L280,400 L280,322.117855 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
